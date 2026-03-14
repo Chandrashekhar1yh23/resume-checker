@@ -1,2 +1,2 @@
 # resume-checker
-shortlisting the resumr
+shortlisting the resume 
