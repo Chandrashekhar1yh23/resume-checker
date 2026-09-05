@@ -1,5 +1,5 @@
 AI Resume Checker
-
+ http://192.168.56.1:3000
 An interactive resume analysis web application that helps job seekers evaluate and improve their resumes for ATS compatibility, structure, skills, grammar, and impact.
 
 The application provides a clean dashboard with an overall resume score, ATS compatibility score, detected and recommended skills, grammar corrections, structural feedback, and improved resume bullet suggestions.
@@ -44,7 +44,7 @@ The home screen allows users to drag and drop a resume or select one from their 
 
 «Add your application screenshot here:
 
-"![Resume Upload](./screenshots/upload.png)"»
+"![Resume Upload]
 
 Analysis Dashboard
 
@@ -52,7 +52,7 @@ After analysis, the dashboard presents the overall score, ATS compatibility, ski
 
 «Add your dashboard screenshot here:
 
-"![Analysis Dashboard](./screenshots/dashboard.png)"»
+"![Analysis Dashboard]
 
 Screenshot directory: Create a "screenshots/" folder in the project root and place your application screenshots there.
 
